@@ -27,5 +27,12 @@ This project was started by [Mike Deiters et al](https://github.com/ggcmaps/ggcm
 * [License](https://github.com/ggcmaps/ggcmaps.github.io/blob/master/License.md)
 * [Contributor Guide](https://github.com/ggcmaps/ggcmaps.github.io/blob/master/Contributing.md)
 
+### Team Roles
+* Karen Banks-
+* Austin Edwards-
+* Jacob Wise-
+* Josue Pastore-Manzano- Team Manager & Code Architecture/Lead Programmer & Testing Lead 
+
+
 ### About our Sponsors
 * [BrowserStack](http://browserstack.com/) partnered with us to allow us to use their services with the browser testing as well as their automated testing. You should probably check them out :D
